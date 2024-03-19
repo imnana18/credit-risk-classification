@@ -1,6 +1,6 @@
 # Module 12 Analysis Report
 
-## Overview of the Analysis
+## Overview
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
