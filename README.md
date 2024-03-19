@@ -6,11 +6,11 @@ The objective of this project was to develop a model for assessing loan risk usi
 
 ## Assignment Map
 
-📁 Analysis_Report
+📁 `Analysis_Report`
 
  - `analysis-report.md`: report analysis for the project.
 
-📁 Credit_Risk
+📁 `Credit_Risk`
 
  - 📁`Models`: code for training and testing all models.
    - Linear Regression model: `lr_credit_risk_classification.ipynb`
